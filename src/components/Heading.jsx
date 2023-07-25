@@ -3,7 +3,7 @@ const react = require("react");
 function Heading() {
   return (
     <header>
-      <h1>DevTown</h1>
+      <h1>Note Making Application</h1>
     </header>
   );
 }
